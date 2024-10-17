@@ -3,14 +3,14 @@ title: "HEES"
 about:
   id: me
   template: broadside
-  image: img/H.E.E.S_Stamp.gif
+  image: img/H.E.E.S_Stamp.PNG
 ---
 
 :::{#me}
 
 ## Goals
 
-Strengthen the connection between nature and people
+(Re)connect nature and people
 
 
 ## Education
