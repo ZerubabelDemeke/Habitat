@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "About HEES"
 about:
   id: me
   template: broadside
@@ -10,10 +10,13 @@ about:
 
 ## Goals
 
+Strengthen the connection between nature and people
+
+
 ## Education
 
 ## Experience
 
 :::
 
-Thanks for checking out my web site!
+Thank you visiting!
