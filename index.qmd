@@ -1,5 +1,5 @@
 ---
-title: "HEES"
+title: "HABITAT"
 about:
   id: me
   template: broadside
@@ -8,15 +8,22 @@ about:
 
 :::{#me}
 
-## Goals
+## Our Goal
 
-(Re)connect nature and people
+At HABITAT Ecological & Environmental Services we strive to (Re)connect people with nature and promote sustainability
 
 
-## Education
+## Our Mission
 
-## Experience
+Linking communities, tourism and nature conservation via informed decision making
+
+## Our Services
+
+- Wildlife ecology
+- Protected area planning and management
+- Eco-tourism
+- Human dimestions 
 
 :::
 
-Thank you visiting!
+Thank you for visiting!
