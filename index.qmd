@@ -3,7 +3,7 @@ title: "About HEES"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/H.E.E.S_Stamp.gif
 ---
 
 :::{#me}
