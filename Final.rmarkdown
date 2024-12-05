@@ -7,8 +7,6 @@ format: pdf
 editor: visual
 ---
 
-
-
 *Natural Resources and the Environment Program, University of New Hampshire.*
 
 *New Hampshire, USA.*
@@ -75,8 +73,6 @@ The illegal threats were grouped into their categories and attributes were then 
 
 In the illegal violations monitoring many threats to the National Park were identified. Of Charcoal production, Firewood collection, and Grass collection were the most observed ones followed by illegal fishing, illegal grazing, wood logging, and grass cutting. Charcoal production and waste disposal incidents were medium encounter rate categories during patrol missions. On the other hand, Wildlife Hunting, Illegal farming, and Settlement incidents were the lowest encounter rate category during patrol missions.
 
-
-
 ```{r echo=FALSE}
 
 library(ggplot2)
@@ -100,15 +96,11 @@ ggplot(data_long, aes(x = Month, y = Count, color = Threat.type, group = Threat.
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
 
-
-
 3.2. The Origin and Sex Ratio of Illegal Entry to the Park
 
 3.2.1. The Origin of Illegal Entry to the Park
 
 Nech Sar National Park (NSNP) currently facing severe conservation threats due to high Illegal entry to the park. In the present patrol, 914 incidents from Arba Minch Zuria Woreda followed by Arba Minch town and Guji Commity inside the park, 256 and 213, respectively. On the other hand, fewer incidents of illegal entry from Gamo Zone and surrounding Zone and Woreda such as Dita Woreda, Gerese Woreda, Chencha Woreda, Kuch Woreda, Kemba Woreda, Wolaita Zone, Kore Community, Boreda Woreda, Gofa Zone, Basket Special Woreda on the illegal fishing activity, Gacho Baba Woreda.
-
-
 
 ```{r echo=FALSE}
 
@@ -129,13 +121,9 @@ ggplot(data, aes(x = NumberOfPeople, y = reorder(PlaceOfOrigin, -NumberOfPeople)
 
 ```
 
-
-
 3.2.2. Sex Ratio of Illegal Entry
 
 The sex category of illegal entry to the National Park is given in Figure 7. A total of 1,658 illegal entries were observed during patrol time.  Overall, 980 males (59.1%), 647 females (39%), and 31 unknown sex (1.9%) or hidden by bushy and natural barriers, respectively.
-
-
 
 ```{r echo=FALSE}
 
@@ -157,13 +145,9 @@ ggplot(data, aes(x = sex, y = No, color = LegendLabel)) +
 
 ```
 
-
-
 3.3. Patrol Effort and Team Performance of Rangers
 
 Nech Sar National Park has 56 rangers in the park, stationed on four different outposts. Each outpost has a monthly changing team of eight to nine members or teams with one additional team leader for each team. Their responsibilities are patrolling the park and, as a result, the patrol team’s performance by number of days, distance walked by km, Active Patrol Hours, Distance (km) per number of Days, and Number of Active Patrol Hours per number of Days.
-
-
 
 ```{r echo=FALSE}
 
@@ -187,11 +171,7 @@ ggplot(data_long, aes(x = Month, y = Count, fill = Patrol.Team)) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
 
-
-
 Table 1 shows the summary queries, showing patrol effort or performance for individual Rangers (Note: the table shown from a SMART report from which the names of rangers have been removed and replaced by Ranger1 up to Ranger 6) While the graph below indicates the an area covered by patrol teams.
-
-
 
 ```{r echo=FALSE}
 library(knitr)
@@ -212,8 +192,6 @@ kable(data, caption = "Patrol Effort and Team Performance") %>%
 
 ```
 
-
-
 5.  DISCUSSION
 
 Charcoal production, Firewood collection, Wood logging, illegal grazing, Grass cutting, illegal farming and Settlement, Overfishing, and illegal poaching were the major threats to Nech Sar National Park. Conservation challenges of Park and major threats are resulted from human encroachment that ranked in the result (Figure 1). Although 1,656 illegal entries were observed/recorded during the current study time (2022) other field research results indicate 457 in 2017 [@alemu2017], 265 in 2015 [@nsnp2015], and 147 in 2012 [@fetene2012] that reflect an increase on conservation threats.
@@ -229,4 +207,3 @@ Both urban and rural communities are largely dependent on forest resources for f
 As it's possible to understand from the results, Improving infrastructure, facilities, and field equipment (roads, campsites, post sites, information centers) will contribute to reducing illegal violations and promote effective management. On the other hand, developing sustainable  benefit sharing schemes and alternative means to support the livelihood of communities also enhances the sustainable conservation of the park. Developing awareness of the community and respective role of them and other stakeholders can also develop a sense of ownership for the community and other stakeholders.
 
 5.  REFERENCES
-

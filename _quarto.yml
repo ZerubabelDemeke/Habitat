@@ -1,9 +1,9 @@
-project:
+project: 
   type: website
   output-dir: docs
   
 website:
-  title: "HABITAT Ecological & Environmental Services (HEES)"
+  title: "Application of Spatial Monitoring and Reporting Tool (SMART) for Improving Law-Enforcement Effectiveness at Nech Sar National Park, Ethiopia."
   navbar:
     left:
       - href: index.qmd
