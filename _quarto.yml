@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "Application of Spatial Monitoring and Reporting Tool (SMART) for Improving Law-Enforcement Effectiveness at Nech Sar National Park, Ethiopia."
+  title: 'Final Project'
   navbar:
     left:
       - href: index.qmd
