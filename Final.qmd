@@ -1,25 +1,25 @@
 ---
 title: "Application of Spatial Monitoring and Reporting Tool (SMART) for Improving Law-Enforcement Effectiveness at Nech Sar National Park, Ethiopia."
 author: "Zerubabel W. Demeke"
-bibliography: references.bib
+bibliography: C://Users//ZerubabelW//Downloads//references.bib
 link-citations: true
 format: pdf
 editor: visual
 ---
 
-Natural Resources and the Environment Program, University of New Hampshire.
+*Natural Resources and the Environment Program, University of New Hampshire.*
 
-New Hampshire, USA.
+*New Hampshire, USA.*
 
-Zerubabel.Demeke@unh.edu
+*Zerubabel.Demeke\@unh.edu*
 
-Abstract
+# **Abstract**
 
-Ecological monitoring is the regular observation and informing gathering on environmental conditions with a kin purpose detect change at different time intervals coupled with future forecasts of environmental parameters. The Spatial Monitoring and Reporting Tool or SMART is considered among the advanced systems for ecological monitoring. To increase its management effectiveness, Nech Sar National is applying the SMART approach for ecological and threat monitoring. The Park has four patrol stations established at selected parts of the park with due consideration for conservation requirements. The first patrol program using the SMART CyberTracker was initiated in 2022 by deploying 56 rangers in six different teams consisting of 8 to 9 rangers per team. In a a year long patrol; charcoal production, firewood collection, wood logging, illegal grazing, grass cutting, illegal farming, settlement, over fishing, and poaching were the threats recorded in the park. A total of 10 threat types with 1,658 incidents were recorded during the patrol. Illegal firewood collection was the highest recorded illegal activity, followed by illegal fishing, while illegal farming was the least recorded illegal activity. The main reasons behind the anthropogenic pressures are identified to be the park boundary demarcation, poor infrastructure, and low benefit-sharing schemes for the local community.
+*Ecological monitoring is the regular observation and informing gathering on environmental conditions with a kin purpose detect change at different time intervals coupled with future forecasts of environmental parameters. The Spatial Monitoring and Reporting Tool or SMART is considered among the advanced systems for ecological monitoring. To increase its management effectiveness, Nech Sar National is applying the SMART approach for ecological and threat monitoring. The Park has four patrol stations established at selected parts of the park with due consideration for conservation requirements. The first patrol program using the SMART CyberTracker was initiated in 2022 by deploying 56 rangers in six different teams consisting of 8 to 9 rangers per team. In a a year long patrol; charcoal production, firewood collection, wood logging, illegal grazing, grass cutting, illegal farming, settlement, over fishing, and poaching were the threats recorded in the park. A total of 10 threat types with 1,658 incidents were recorded during the patrol. Illegal firewood collection was the highest recorded illegal activity, followed by illegal fishing, while illegal farming was the least recorded illegal activity. The main reasons behind the anthropogenic pressures are identified to be the park boundary demarcation, poor infrastructure, and low benefit-sharing schemes for the local community.*
 
-Key Words: Anthropogenic, Conservation, CyberTracker, Ecology, Threat
+**Key Words:** *Anthropogenic, Conservation, CyberTracker, Ecology, Threat*
 
-INTRODUCTION
+1.  INTRODUCTION
 
 SMART has evolved to become the world's leading and powerful tool in the field of nature conservation and protected area management [@cronin2021; @wangmo2021]. There are more than 800 National parks and other 29 conservation areas that are currently using SMART technology in more than 70 countries around the world [@cronin2021]. Although widely recognized for being implemented at terrestrial sites, SMART can also be readily applied to water bodies’ conservation and protected area management in which more than 50 marine sites were implementing SMART globally [@cronin2021; @gill2017]. When applied to increase the effectiveness of law enforcement, it enables the collection, storage, communication, and evaluation of data on patrol efforts, patrol results, and threat levels. As a result, the application of the SMART approach in law enforcement in protected areas has been proven to reduce threats to wildlife and natural resources at numerous sites worldwide [@azevedo-santos2019; @gill2017; @hötte2016].
 
@@ -33,31 +33,31 @@ Nech Sar National Park is one of the oldest protected areas in Ethiopia which wa
 
 Protected areas administration in Ethiopia is divided into two categories, some are managed by the Ethiopian Wildlife Conservation Authority at the Federal level and others are under the administration of regional states. However, all the parks, whether under federal or regional state administration, have different and unstandardized monitoring systems with due limitations in regular and continuous data for informed decision-making. On top of that, park managers don’t have a mechanism to measure management effectiveness or evaluate patrol performance and efficiency. As a result, the SMART approach for ecological and threat monitoring was introduced in 2019, and Nech Sar National Park used SMART CyberTracker as a standard system to conduct its regular wildlife surveys, habitat, and threat monitoring.
 
-METHODOLOGY
+2.  METHODOLOGY
 
-2.1. The SMART Approach
+    2.1. The SMART Approach
 
-SMART version 5.0.3 integrated with the CyberTracker application was used by installing the software on a dedicated desktop computer for the task. The technical training manual for SMART 5.0.3, guides, and other materials found at http://smartconservationtools.org were used and the default data model was then customized in a way that reflects the situations of the park (Figure 1), configured and transferred to the CyberTracker application on smartphones. CyberTracker operates within a GPS-enabled mobile device i.e., a smartphone or a Personal Digital Assistant (PDA) to collect observation and GPS data in a single unit. With a proper setup including patrol details, conservation area profile, and other related information.
+SMART version 5.0.3 integrated with the CyberTracker application was used by installing the software on a dedicated desktop computer for the task. The technical training manual for SMART 5.0.3, guides, and other materials found at <http://smartconservationtools.org> were used and the default data model was then customized in a way that reflects the situations of the park (Figure 1), configured and transferred to the CyberTracker application on smartphones. CyberTracker operates within a GPS-enabled mobile device i.e., a smartphone or a Personal Digital Assistant (PDA) to collect observation and GPS data in a single unit. With a proper setup including patrol details, conservation area profile, and other related information.
 
-The customized SMART data model of Nech Sar National Park
+![The customized SMART data model of Nech Sar National Park](images/Fig1.png)
 
 2.2 Patrol Framework and Design
 
 As an adaptive management approach, ranger-based monitoring and conservation area management leveraging SMART are based on point observations and track logs generated by ranger patrols. These logs are entered into a database and analyzed to produce data summaries and reports, which are thenfed back to ranger teams as patrol plans (Figure 2).
 
-Nech Sar National Park Patrol framework
+![Nech Sar National Park Patrol framework](images/Picture2.png)
 
 SMART was designed to facilitate each step in this cycle: 
 
-Step 1: Data Collection; Patrol teams collect and record data on where they go and what they see while on patrol, including threats (e.g., charcoal production and firewood collection), and the actions taken (e.g., arrests, confiscations of materials). These data are collected on smartphones equipped with the CyberTracker application, standardizing and simplifying data collection, and adding increased efficiency and transparency. 
+[Step 1:]{.underline} Data Collection; Patrol teams collect and record data on where they go and what they see while on patrol, including threats (e.g., charcoal production and firewood collection), and the actions taken (e.g., arrests, confiscations of materials). These data are collected on smartphones equipped with the CyberTracker application, standardizing and simplifying data collection, and adding increased efficiency and transparency. 
 
-Step 2: Data Entry; Patrol teams report their patrol activities, followed by patrol data and routes that are checked and then stored in the SMART database. Since the park is using smartphones for data collection, the process is automated, eliminating data entry errors.
+[Step 2]{.underline}: Data Entry; Patrol teams report their patrol activities, followed by patrol data and routes that are checked and then stored in the SMART database. Since the park is using smartphones for data collection, the process is automated, eliminating data entry errors.
 
-Step 3: Analysis, and Reporting; data are then processed semi-automatically into user-defined, highly visual tables, charts, and maps showing patrol effort, coverage, and results, forming the basis for patrol and trend analysis and rapid evaluation.
+[Step 3]{.underline}: Analysis, and Reporting; data are then processed semi-automatically into user-defined, highly visual tables, charts, and maps showing patrol effort, coverage, and results, forming the basis for patrol and trend analysis and rapid evaluation.
 
-Step 4: Feedback and Evaluation; regular meetings with rangers are held to discuss patrol effort and results to ensure all stakeholders are kept informed and to demonstrate the value of ranger efforts.
+[Step 4:]{.underline} Feedback and Evaluation; regular meetings with rangers are held to discuss patrol effort and results to ensure all stakeholders are kept informed and to demonstrate the value of ranger efforts.
 
-Step 5: Strategic Planning; managers, rangers, and other stakeholders then plan adaptive patrol strategies based on analysis of previous results, changing conditions, and/or temporal patterns, and set new patrol targets.
+[Step 5]{.underline}: Strategic Planning; managers, rangers, and other stakeholders then plan adaptive patrol strategies based on analysis of previous results, changing conditions, and/or temporal patterns, and set new patrol targets.
 
 2.3. Data Collection
 
@@ -67,13 +67,13 @@ A total of four patrol stations or ranger outposts were established by dividing 
 
 The illegal threats were grouped into their categories and attributes were then semi-analyzed by SMART (Spatial Monitoring and Reporting Tools) 5.0.3 versions software by directly downloading the field data from the CyberTracker application used to collect the data using android smart phones. The semi-analyzed data on SMART then exported in Excel format where further analysis is conducted by Rstudio (R 4.4.1). The types of illegal threats, distribution, the patrol effort of each team, encounter rates, and action taken to threats are also analyzed. The results are then presented by simple statistical tools like figures, tables, and charts.
 
-RESULTS
+3.  RESULTS
 
 3.1. Types and Trends of Conservation Threats in NSNP
 
 In the illegal violations monitoring many threats to the National Park were identified. Of Charcoal production, Firewood collection, and Grass collection were the most observed ones followed by illegal fishing, illegal grazing, wood logging, and grass cutting. Charcoal production and waste disposal incidents were medium encounter rate categories during patrol missions. On the other hand, Wildlife Hunting, Illegal farming, and Settlement incidents were the lowest encounter rate category during patrol missions.
 
-{r echo=FALSE}
+```{r echo=FALSE}
 
 library(ggplot2)
 suppressPackageStartupMessages(library(dplyr))
@@ -94,6 +94,7 @@ ggplot(data_long, aes(x = Month, y = Count, color = Threat.type, group = Threat.
        y = "Threat Count",
        color = "Threat Type") +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
 
 3.2. The Origin and Sex Ratio of Illegal Entry to the Park
 
@@ -101,7 +102,7 @@ ggplot(data_long, aes(x = Month, y = Count, color = Threat.type, group = Threat.
 
 Nech Sar National Park (NSNP) currently facing severe conservation threats due to high Illegal entry to the park. In the present patrol, 914 incidents from Arba Minch Zuria Woreda followed by Arba Minch town and Guji Commity inside the park, 256 and 213, respectively. On the other hand, fewer incidents of illegal entry from Gamo Zone and surrounding Zone and Woreda such as Dita Woreda, Gerese Woreda, Chencha Woreda, Kuch Woreda, Kemba Woreda, Wolaita Zone, Kore Community, Boreda Woreda, Gofa Zone, Basket Special Woreda on the illegal fishing activity, Gacho Baba Woreda.
 
-{r echo=FALSE}
+```{r echo=FALSE}
 
 library(ggplot2)
 library(dplyr)
@@ -118,12 +119,13 @@ ggplot(data, aes(x = NumberOfPeople, y = reorder(PlaceOfOrigin, -NumberOfPeople)
        y = "Place of Origin") +
   theme(legend.position = "none") 
 
+```
 
 3.2.2. Sex Ratio of Illegal Entry
 
 The sex category of illegal entry to the National Park is given in Figure 7. A total of 1,658 illegal entries were observed during patrol time.  Overall, 980 males (59.1%), 647 females (39%), and 31 unknown sex (1.9%) or hidden by bushy and natural barriers, respectively.
 
-{r echo=FALSE}
+```{r echo=FALSE}
 
 suppressPackageStartupMessages(library(ggplot2))
 
@@ -141,12 +143,13 @@ ggplot(data, aes(x = sex, y = No, color = LegendLabel)) +
   theme_classic(base_size = 14) +
   theme(legend.position = "right")
 
+```
 
 3.3. Patrol Effort and Team Performance of Rangers
 
 Nech Sar National Park has 56 rangers in the park, stationed on four different outposts. Each outpost has a monthly changing team of eight to nine members or teams with one additional team leader for each team. Their responsibilities are patrolling the park and, as a result, the patrol team’s performance by number of days, distance walked by km, Active Patrol Hours, Distance (km) per number of Days, and Number of Active Patrol Hours per number of Days.
 
-{r echo=FALSE}
+```{r echo=FALSE}
 
 library(ggplot2)
 library(dplyr)
@@ -166,10 +169,11 @@ ggplot(data_long, aes(x = Month, y = Count, fill = Patrol.Team)) +
        y = "Patrol Effort in M2",
        fill = "Patrol Team") +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
 
 Table 1 shows the summary queries, showing patrol effort or performance for individual Rangers (Note: the table shown from a SMART report from which the names of rangers have been removed and replaced by Ranger1 up to Ranger 6) While the graph below indicates the an area covered by patrol teams.
 
-{r echo=FALSE}
+```{r echo=FALSE}
 library(knitr)
 suppressPackageStartupMessages(library(kableExtra))
 
@@ -186,8 +190,9 @@ kable(data, caption = "Patrol Effort and Team Performance") %>%
   kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"),
                 full_width = F, position = "center")
 
+```
 
-DISCUSSION
+5.  DISCUSSION
 
 Charcoal production, Firewood collection, Wood logging, illegal grazing, Grass cutting, illegal farming and Settlement, Overfishing, and illegal poaching were the major threats to Nech Sar National Park. Conservation challenges of Park and major threats are resulted from human encroachment that ranked in the result (Figure 1). Although 1,656 illegal entries were observed/recorded during the current study time (2022) other field research results indicate 457 in 2017 [@alemu2017], 265 in 2015 [@nsnp2015], and 147 in 2012 [@fetene2012] that reflect an increase on conservation threats.
 
@@ -195,11 +200,10 @@ Arba Minch groundwater forest lowland riverine forest within Nech Sar National P
 
 The massive number of livestock herds present in the park augmented by seasonal migration which competes with the inadequate available feed in the wet season will take the predominant role in the decline of the herbivore mammals in the plain of the park. The natural resources depletion resulted from livestock grazing and other anthropogenic pressures related decline in the number of wild animals, in Nech Sar National Park [@shibru2020], adjacent to the Gamabela National Park [@seidmoh] Chebera Churchura National Park, Ethiopia [@megaze2017], and Awash, Yangudi Rassa and Aledeghi National Park; where a population of cattle, sheep, and goats of the pastoralist are flooding in these protected areas. This also leads to wildlife being stressed by disturbance, and shortage of food [@wale2017]. The Illegal Farmland expansion and settlement in the northeast of the park have been utilizing the resource in an unsustainable way for short-term benefit without considering the longer-term impact [@abiyot2009].
 
-CONCLUSION AND RECOMMENDATION
+5.  CONCLUSION AND RECOMMENDATION
 
 Both urban and rural communities are largely dependent on forest resources for firewood and construction or as a business option to support their family's daily livelihood demands. The other park-threatening pressure is livestock grazing, expansion of settlement and illegal farming, and poaching, particularly in the Eastern parts of the park. On the other hand, more than a significant number of people with their cattle live within the park. Anthropogenic threats to the National Park's biodiversity include charcoal production, firewood collection, wood logging, illegal grazing, grass cutting, illegal farming and settlement, overfishing, and illegal poaching, etc. Besides, disagreement on the park boundary, ecosystem degradation, habitat loss, low infrastructure (roads and eco-tourism center), and low benefit of the local community from the park are the major causes of illegal threats.
 
 As it's possible to understand from the results, Improving infrastructure, facilities, and field equipment (roads, campsites, post sites, information centers) will contribute to reducing illegal violations and promote effective management. On the other hand, developing sustainable  benefit sharing schemes and alternative means to support the livelihood of communities also enhances the sustainable conservation of the park. Developing awareness of the community and respective role of them and other stakeholders can also develop a sense of ownership for the community and other stakeholders.
 
-REFERENCES
-
+5.  REFERENCES
